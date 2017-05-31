@@ -1,0 +1,23 @@
+{
+  "name": "readzotero",
+  "version": "1.0.0",
+  "description": "get the tags and information form zotero using the zotero api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenweiLabri/readzotero.git"
+  },
+  "author": "wei chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenweiLabri/readzotero/issues"
+  },
+  "homepage": "https://github.com/chenweiLabri/readzotero#readme",
+  "dependencies": {
+    "libzotero": "^0.1.13",
+    "request": "^2.81.0"
+  }
+}
